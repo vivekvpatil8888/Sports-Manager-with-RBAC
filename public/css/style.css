@@ -1,0 +1,127 @@
+body{
+    color:#000000;
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+    margin-bottom:0;
+    margin-width:0;
+    margin-height:0;
+    background-color:#A3A6BA; 
+}
+.text {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:541460;
+padding:5px;
+}
+td{
+    font-family: Tahoma, Verdana;
+    font-size: 12px;
+    color:#FFFFFF;
+}
+.menu {
+    font:Tahoma, Verdana;
+    font-size:11px;
+    color:#ffffff;
+    font-weight:bold;
+    line-height:32px;
+    padding-left:23px;
+}
+.menu a {
+    color:#ffffff;
+    text-decoration:none;
+}
+.menu a:hover {
+    color:#FF3300;
+    text-decoration:none;
+}
+.text{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color:#666666;
+    padding:8px;
+}
+.text a {
+    color: #666666;
+    text-decoration:none;
+}
+.text a:hover {
+    color: #208CED;
+    text-decoration:none;
+}
+.header {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:12px;
+    font-weight:bold;
+    padding:5px;
+    color:#666666;
+}
+.border {
+    border-right: 1px dashed #9D9B9B;
+}
+.border1 {
+    border-bottom: 1px dashed #9D9B9B;
+}
+.more{
+    font:Verdana, Arial, Helvetica, sans-serif;
+    color:cb4b28;
+    font-size: 10px;
+}
+.more a {
+    color: #cb4b28;
+    text-decoration:none;
+}
+.more a:hover {
+    color: #137cfd;
+    text-decoration:none;
+}
+pre {
+    padding:0;
+    margin:0;
+    font-family:Tahoma, Verdana;
+    text-align: center;
+    font-size: 11px;
+    color: #836A04;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+pre a {
+    color: #836A04;
+    text-decoration:none;
+}
+pre a:hover {
+    color: #2A5801;
+    text-decoration:none;
+}
+.carttable
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color:#FFFFFF;
+    text-align:justify;
+}
+.carttable td{
+    color:#000000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+ 
+    text-align:justify;
+}
+ 
+fontblack{
+     color:#000000;
+}
+.body{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color:#666666;
+    text-align:justify;
+}
+.body a {
+    color: #666666;
+    text-decoration:none;
+}
+.body a:hover {
+    color: #208CED;
+    text-decoration:none;
+}
